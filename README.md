@@ -1,5 +1,5 @@
-Classification Service
-======================
+Topic Extraction Service
+========================
 
 Classifies the given text within a set of concepts, retrieved using an unique
 service id and a language.
