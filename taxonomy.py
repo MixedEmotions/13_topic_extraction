@@ -70,5 +70,17 @@ taxonomy = {
  'diesel': ['COMBUSTIBLE'],
  'gasoleo': ['COMBUSTIBLE'],
  'gas': ['COMBUSTIBLE'],
+ 'pantalla': ['PANTALLA'],
+ 'brillo': ['PANTALLA'],
+ 'cristal': ['PANTALLA'],
+ 'bateria': ['BATERIA'],
+ 'autonomia': ['BATERIA'],
+ 'litio': ['BATERIA'],
+ 'procesador': ['PROCESADOR'],
+ 'cpu': ['PROCESADOR'],
+ 'memoria': ['MEMORIA'],
+ 'ram': ['MEMORIA'],
+ 'gigas': ['MEMORIA'],
+ 'gb': ['MEMORIA']
 
 }
